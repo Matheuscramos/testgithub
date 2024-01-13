@@ -1,3 +1,5 @@
+- git clone CAMINHO_GIT -> clona o repositorio remoto para sua maquina
+
 - git status -> sempre vai te mostrar a sitaucao atual
 
 - git add . -> adiciona todos os arquivos para area de commit
