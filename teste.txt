@@ -1,2 +1,17 @@
-sei la o que estamos testeando
-- comando de qualquer copisa
+- git status -> sempre vai te mostrar a sitaucao atual
+
+- git add . -> adiciona todos os arquivos para area de commit
+	- o "." é para adicionar todos os arquivos alterados ou nao comitados
+	- caso queira apenas 1 arquivo troca o "." pelo nome do arquivo
+
+- git commit -m "seu comentario" -> realiza o commit de tudo que foi feito e colocado no STASH pelo ADD
+
+- git push -> envia seus commits para o repositorio do github remoto
+
+- git pull -> atualiza a sua branch local
+
+- git branch NOME_BRANCH -> cria-se uma nova branch na sua maquina local
+
+- git branch -a -> lista todas as branches que existem na sua máquina
+
+- git checkout NOME_BRANCH -> muda para a branch informada
