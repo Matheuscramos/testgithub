@@ -1,1 +1,7 @@
-sei la o que estamos testeando
+- git status -> sempre vai te mostrar a sitaucao atual
+
+- git add . -> adiciona todos os arquivos para area de commit
+	- o "." é para adicionar todos os arquivos alterados ou nao comitados
+	- caso queira apenas 1 arquivo troca o "." pelo nome do arquivo
+
+- git commit -> 
