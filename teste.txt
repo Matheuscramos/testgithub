@@ -15,3 +15,14 @@
 - git branch -a -> lista todas as branches que existem na sua máquina
 
 - git checkout NOME_BRANCH -> muda para a branch informada
+
+- git merge NOME_BRANCH -> realiza o merge entre as branches solicitando que as alteracoes realizadas
+na branch informada sejam incorporadas na sua
+
+- git mergetool -> estes comando deve ser utilizado quando ocorrer algum conflito de arquivos no
+momento que foi realizado o merge
+
+- git fetch -p -> atualiza todo o seu repositorio local com as informacoes de branches adicionadas
+ou removidas remotamente.
+
+- git branch -D NOME_BRANCH -> deleta a branch local na sua maquina
